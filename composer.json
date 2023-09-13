@@ -1,6 +1,7 @@
 {
     "name": "andach-limited/laravel-primary-key-uuid",
     "description": "This is my package laravel-primary-key-uuid",
+    "version": "1.0.0",
     "keywords": [
         "andach-limited",
         "laravel",
@@ -24,9 +25,7 @@
         "laravel/pint": "^1.0",
         "nunomaduro/collision": "^7.8",
         "orchestra/testbench": "^8.8",
-        "pestphp/pest": "^2.0",
-        "pestphp/pest-plugin-arch": "^2.0",
-        "pestphp/pest-plugin-laravel": "^2.0"
+        "phpunit/phpunit": "^10.0"
     },
     "autoload": {
         "psr-4": {
