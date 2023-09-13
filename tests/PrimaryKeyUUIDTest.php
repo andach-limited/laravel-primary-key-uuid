@@ -3,7 +3,6 @@
 namespace Andach\LaravelPrimaryKeyUuid\Tests;
 
 use Andach\LaravelPrimaryKeyUuid\Traits\PrimaryKeyUUID;
-use PHPUnit\Framework\TestCase;
 
 class PrimaryKeyUUIDTest extends TestCase
 {
