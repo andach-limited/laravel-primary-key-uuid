@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Andach\LaravelPrimaryKeyUuid\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelPrimaryKeyUuidCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-primary-key-uuid';
 
     public $description = 'My command';
 
