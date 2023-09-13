@@ -1,17 +1,18 @@
 {
-    "name": "andach-limited/laravel-primary-key-uuid",
-    "description": "This is my package laravel-primary-key-uuid",
+    "name": "andach/laravel-primary-key-uuid",
+    "description": "This is an incredibly simple package to add a simple trait for Laravel models where the primary key is a UUID.",
     "version": "1.0.0",
     "keywords": [
-        "andach-limited",
+        "andach",
         "laravel",
-        "laravel-primary-key-uuid"
+        "laravel-primary-key-uuid",
+        "uuid"
     ],
     "homepage": "https://github.com/andach-limited/laravel-primary-key-uuid",
     "license": "MIT",
     "authors": [
         {
-            "name": "Andreas Christodolou",
+            "name": "Andreeas Christodoulou",
             "email": "andreas@andach.co.uk",
             "role": "Developer"
         }
