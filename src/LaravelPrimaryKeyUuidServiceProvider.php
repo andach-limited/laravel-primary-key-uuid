@@ -2,9 +2,9 @@
 
 namespace Andach\LaravelPrimaryKeyUuid;
 
+use Andach\LaravelPrimaryKeyUuid\Commands\LaravelPrimaryKeyUuidCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Andach\LaravelPrimaryKeyUuid\Commands\LaravelPrimaryKeyUuidCommand;
 
 class LaravelPrimaryKeyUuidServiceProvider extends PackageServiceProvider
 {

@@ -2,9 +2,9 @@
 
 namespace Andach\LaravelPrimaryKeyUuid\Tests;
 
+use Andach\LaravelPrimaryKeyUuid\LaravelPrimaryKeyUuidServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Andach\LaravelPrimaryKeyUuid\LaravelPrimaryKeyUuidServiceProvider;
 
 class TestCase extends Orchestra
 {
