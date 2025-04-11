@@ -1,7 +1,7 @@
 {
     "name": "andach/laravel-primary-key-uuid",
     "description": "This is an incredibly simple package to add a simple trait for Laravel models where the primary key is a UUID.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "andach",
         "laravel",
